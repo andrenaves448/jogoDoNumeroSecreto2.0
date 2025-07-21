@@ -33,7 +33,7 @@ Durante o desenvolvimento deste jogo, aprendi diversos conceitos fundamentais de
 
 ## 📷 Exemplo de uso
 
-![Jogo rodando no navegador](https://jogo-do-numero-secreto2-0-ofhrbwhwj-andrenaves448s-projects.vercel.app/)
+[Jogo rodando no navegador](https://jogo-do-numero-secreto2-0-ofhrbwhwj-andrenaves448s-projects.vercel.app/)
 
 ---
 
