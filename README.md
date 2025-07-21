@@ -33,7 +33,7 @@ Durante o desenvolvimento deste jogo, aprendi diversos conceitos fundamentais de
 
 ## 📷 Exemplo de uso
 
-![Jogo rodando no navegador](https://via.placeholder.com/600x300?text=GIF+ou+imagem+do+jogo)
+![Jogo rodando no navegador](https://jogo-do-numero-secreto2-0-ofhrbwhwj-andrenaves448s-projects.vercel.app/)
 
 ---
 
@@ -41,4 +41,4 @@ Durante o desenvolvimento deste jogo, aprendi diversos conceitos fundamentais de
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
+   git clone https://github.com/andrenaves448/jogoDoNumeroSecreto2.0.git
