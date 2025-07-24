@@ -1,4 +1,3 @@
-
 //opção com mais codigo porem vamos ver utilizando a function
 // let titulo = document.querySelector('h1');
 // titulo.innerHTML = 'Jogo do número secreto';
@@ -11,7 +10,7 @@
 // };
 
 let listaDeNumerosSorteados = [];
-let numeroLimite = 30;
+let numeroLimite = 40;
 let numeroSecreto = gerarNumeroAleatorio();
 let tentativas = 1;
 
@@ -80,6 +79,4 @@ function reiniciarJogo(){
     mensagemInicial();
     document.getElementById('reiniciar').setAttribute('disabled',true);
 };
-
-
 
